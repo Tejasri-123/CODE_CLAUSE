@@ -1,6 +1,8 @@
 # CODE_CLAUSE
 ## **Boston Housing price prediction**
-### **Goal** - Predicting the prices of the house using machine learning algotihms
+![image](https://github.com/Tejasri-123/CODE_CLAUSE/assets/85396281/1aef5006-0907-4fb5-80f7-226e2f2e0603)
+
+### **Goal** - Predicting the prices of the house using machine learning algorithms
 ### **DataSet** - https://www.kaggle.com/datasets/altavish/boston-housing-dataset
 ### **Workflow**
 * Importing the required packages into our python environment

@@ -18,5 +18,8 @@
 * RandomForest Regression
 <hr>
 ### ** Libraries Used** 
-* ```Pandas```
-* ```Numpy```
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Sklearn

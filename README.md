@@ -13,7 +13,7 @@
 * XGBoost Regressor
 * Linear Regression
 * RandomForest Regression
-### ** Libraries Used** 
+### **Libraries Used** 
 * Pandas
 * Numpy
 * Matplotlib

@@ -21,3 +21,26 @@
 * Matplotlib
 * Seaborn
 * Sklearn
+
+**************************
+## **GoldPrice Prediction**
+![image](https://github.com/Tejasri-123/CODE_CLAUSE/assets/85396281/df3440b1-7d1d-44c2-82fe-4fae8a8276ec)
+### **Goal** - Predicting the price of the Gold using machine learning algorithms
+* Our objective is to predict the values of the variable GLD with holding the explanatory or predictor variables as SPX, GLD, USO, SLV, USR/USD.
+### **DataSet** - https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
+### **Steps to predict the gold prices using machinelearning algorithm**
+* Import the libraries
+* Define explanatory variables
+* Define dependent variable
+* EDA on the Dataset
+* Split the data into train and test dataset
+* Create a ml model
+* Predict the Gold prices
+### **Machine Learning Algorithms Used**
+* RandomForest Regressor
+### **Libraries Used** 
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Sklearn
